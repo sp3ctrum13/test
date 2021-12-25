@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
 	cin >> a;
 	cin >> b;
 	cout << "a exposant b = " << puissance(a,b) << "\n"  ;
-	
+	A=15;
 	return 0;
 }
 
